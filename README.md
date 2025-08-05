@@ -9,10 +9,6 @@ A React TypeScript application that finds pairs of numbers in an array that sum 
 ### Installation
 
 1. Clone the repository:
-```bash
-git clone <repository-url>
-cd mx3d-test
-```
 
 2. Install dependencies:
 ```bash

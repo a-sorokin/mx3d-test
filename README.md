@@ -1,6 +1,6 @@
 # MX3D Test Assessment - Number Pair Finder
 
-A React TypeScript application that finds pairs of numbers in an array that sum up to a target value. The app provides an interactive interface to generate random numbers and visualize the pairs with color coding.
+A React TypeScript application that finds pairs of numbers in an array that sum up to a target value. The app should provide an interactive interface to generate random numbers and visualize the pairs with color coding.
 
 ### Prerequisites
 

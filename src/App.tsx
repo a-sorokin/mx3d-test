@@ -1,5 +1,11 @@
-import "./App.css";
+import './App.css';
+// import { Content } from 'mySolution/Content';
 
 export const App = () => {
-  return <div>Hi!</div>;
+  return (
+    <div>
+      {/*<Content />*/}
+      Hi!
+    </div>
+  );
 };

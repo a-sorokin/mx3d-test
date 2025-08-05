@@ -1,7 +1,4 @@
-export const getArrayOfNumbers = (
-  length: number,
-  maxNumber: number = 10,
-): number[] => {
+export const getArrayOfNumbers = (length: number, maxNumber: number = 10): number[] => {
   const { floor, random } = Math;
 
   return Array.from({ length }, () => {
